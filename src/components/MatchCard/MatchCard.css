@@ -1,0 +1,18 @@
+.card {
+    background: white;
+    border-radius: 2px;
+    position: relative;
+    box-shadow: 0 3px 6px orange, 0 3px 6px orange;
+    text-align: left;
+    margin-bottom:20px;
+  }
+  
+  .card > .img-container {
+    overflow: hidden;
+    text-align: center;
+    background:black;
+  }
+  .card > .img-container > img {
+    height: 300px;
+    width: 300px;
+  }

@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "clicked": false,
+        "image": "./images/Arcanine.png" 
+
+    },
+    {
+        "id": 2,
+        "clicked": false,
+        "image": "./images/Charizard.png" 
+
+    },
+    {
+        "id": 3,
+        "clicked": false,
+        "image": "./images/Charmander.png" 
+
+    },
+    {
+        "id": 4,
+        "clicked": false,
+        "image": "./images/Charmeleon.png" 
+
+    },
+    {
+        "id": 5,
+        "clicked": false,
+        "image": "./images/Flareon.png" 
+
+    },
+    {
+        "id": 6,
+        "clicked": false,
+        "image": "./images/Growlithe.png" 
+
+    },
+    {
+        "id": 7,
+        "clicked": false,
+        "image": "./images/Magmar.png" 
+
+    },
+    {
+        "id": 8,
+        "clicked": false,
+        "image": "./images/Moltres.png" 
+
+    },
+    {
+        "id": 9,
+        "clicked": false,
+        "image": "./images/Ninetales.png" 
+
+    },
+    {
+        "id": 10,
+        "clicked": false,
+        "image": "./images/Ponyta.png" 
+
+    },
+    {
+        "id": 11,
+        "clicked": false,
+        "image": "./images/Rapidash.png" 
+
+    },
+    {
+        "id": 12,
+        "clicked": false,
+        "image": "./images/Vulpix.png" 
+
+    }
+]
